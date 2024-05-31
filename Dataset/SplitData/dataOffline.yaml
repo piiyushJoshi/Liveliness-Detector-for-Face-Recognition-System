@@ -1,0 +1,7 @@
+path: C:\Users\piyus\Desktop\Anti Spoofing Minor Project\Dataset\SplitData
+train: train/images
+val: val/images
+test: test/imges
+
+nc: 2
+names: ['real', 'fake']
